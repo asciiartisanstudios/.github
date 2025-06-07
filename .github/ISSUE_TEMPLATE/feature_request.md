@@ -1,20 +1,35 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Feature Request
+about: Suggest a new feature or enhancement for the game
+title: "[FEATURE] Brief description of feature"
+labels: enhancement
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Feature Description
+**What should the feature do?**
+[A clear and concise description of what you want to happen]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Why is this feature needed?**
+[Explain why this would be valuable for the game]
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Proposed Implementation
+**How could this feature be implemented?**
+[Technical suggestions, design ideas, or references to similar implementations]
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Alternatives Considered**
+[Any alternative solutions or features you've considered]
+
+## Additional Context
+- Gameplay impact: [How this affects gameplay]
+- Technical considerations: [Any engine limitations or special requirements]
+- Art/audio needs: [Required assets if known]
+
+## Discussion Points
+[Use comments to discuss implementation details before proceeding to development]
+
+## Acceptance Criteria
+- [ ] Design approved by team
+- [ ] Technical feasibility confirmed
+- [ ] Art/Audio requirements documented
+- [ ] Implementation plan finalized
